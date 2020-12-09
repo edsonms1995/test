@@ -15,6 +15,7 @@ To run project on Eclipse:
 
 JAVA QUESTIONS:
 All *.java files can be executed clickin on button "RUN".
+
 	>> question2.java
 	>> question3.java
 	>> question6.java
@@ -23,6 +24,7 @@ All *.java files can be executed clickin on button "RUN".
 
 SQL QUESTIONS:
 All *.sql can be executed on MySQL server. All script should be runned in order to work as expected.
+
 	>> question4.sql
 	>> question7.sql
 
